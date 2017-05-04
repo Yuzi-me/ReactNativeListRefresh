@@ -9,7 +9,7 @@
   "dependencies": {
     "react": "16.0.0-alpha.6",
     "react-native": "0.44.0",
-    "react-native-pull-to-refresh-list": "file:android/react-native-pull-to-refresh-list",
+    "react-native-pull-to-refresh-list": "git+https://github.com/Yuzi-me/react-native-pull-to-refresh-list.git",
     "react-native-smart-timer-enhance": "^1.0.3"
   },
   "devDependencies": {
